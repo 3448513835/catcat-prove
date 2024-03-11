@@ -1,0 +1,62 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "jiesuofangjian2",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.6666666666666666,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "props": {
+      "scale": [
+        {
+          "frame": 0,
+          "value": {
+            "__type__": "cc.Vec3",
+            "x": 1.2,
+            "y": 1.2,
+            "z": 1
+          }
+        },
+        {
+          "frame": 0.16666666666666666,
+          "value": {
+            "__type__": "cc.Vec3",
+            "x": 1.3,
+            "y": 1.3,
+            "z": 1
+          }
+        },
+        {
+          "frame": 0.3333333333333333,
+          "value": {
+            "__type__": "cc.Vec3",
+            "x": 1.15,
+            "y": 1.15,
+            "z": 1
+          }
+        },
+        {
+          "frame": 0.5,
+          "value": {
+            "__type__": "cc.Vec3",
+            "x": 1.22,
+            "y": 1.22,
+            "z": 1
+          }
+        },
+        {
+          "frame": 0.6666666666666666,
+          "value": {
+            "__type__": "cc.Vec3",
+            "x": 1.2,
+            "y": 1.2,
+            "z": 1
+          }
+        }
+      ]
+    }
+  },
+  "events": []
+}

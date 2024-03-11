@@ -1,0 +1,6 @@
+{
+  "1": {"id": 1,"lv_min": 1,"lv_max": 5,"percent": 20,"pool_id": 1},
+  "2": {"id": 2,"lv_min": 6,"lv_max": 10,"percent": 40,"pool_id": 2},
+  "3": {"id": 3,"lv_min": 11,"lv_max": 15,"percent": 60,"pool_id": 3},
+  "4": {"id": 4,"lv_min": 16,"lv_max": 9999,"percent": 80,"pool_id": 4}
+}

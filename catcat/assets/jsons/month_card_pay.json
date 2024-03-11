@@ -1,0 +1,4 @@
+{
+  "101": {"id": 101,"desc_type": "广告周卡","month_card_type": 1,"buy_price": 14,"duration": 7,"buy_reward": "100003:100","daily_reward": "100005:100","desc": "每天可领取100体力","discount": 0.5},
+  "102": {"id": 102,"desc_type": "广告月卡","month_card_type": 1,"buy_price": 42,"duration": 30,"buy_reward": "100003:300","daily_reward": "100005:200","desc": "每天可领取200体力","discount": 0.5}
+}

@@ -1,0 +1,5 @@
+{
+  "10001": {"id": 10001,"group": 101,"group_name": "最初的朋友","customer_name": "兔兔","appearance": "guke_1","action": "tuzi","address": "月亮之上","desc": "月亮…嫦娥姐姐","unlock_reward": "100003:10","intimacy_group": 101,"unlock_desc": "完成任务获得","word_bubble": 101},
+  "10002": {"id": 10002,"group": 101,"group_name": "最初的朋友","customer_name": "小狐","appearance": "guke_3","action": "huli","address": "狐家村","desc": "看着就很精明的一只狐","unlock_reward": "100003:10","intimacy_group": 101,"unlock_desc": "完成任务获得","word_bubble": 102},
+  "10003": {"id": 10003,"group": 102,"group_name": "东方之乡","customer_name": "熊猫","appearance": "guke_4","action": "xiongmao","address": "熊猫村1号街","desc": "全球明星","unlock_reward": "100003:10","intimacy_group": 101,"unlock_desc": "完成任务获得","word_bubble": 103}
+}

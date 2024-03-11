@@ -1,0 +1,113 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "hongdiantiaodong",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 2,
+  "sample": 60,
+  "speed": 0.85,
+  "wrapMode": 2,
+  "curveData": {
+    "paths": {
+      "hongdian2": {
+        "props": {
+          "scale": [
+            {
+              "frame": 0,
+              "value": {
+                "__type__": "cc.Vec3",
+                "x": 1,
+                "y": 1,
+                "z": 1
+              }
+            },
+            {
+              "frame": 0.16666666666666666,
+              "value": {
+                "__type__": "cc.Vec3",
+                "x": 1.2,
+                "y": 0.8,
+                "z": 1
+              }
+            },
+            {
+              "frame": 0.4166666666666667,
+              "value": {
+                "__type__": "cc.Vec3",
+                "x": 0.9,
+                "y": 1.1,
+                "z": 1
+              }
+            },
+            {
+              "frame": 0.75,
+              "value": {
+                "__type__": "cc.Vec3",
+                "x": 0.9,
+                "y": 1.1,
+                "z": 1
+              }
+            },
+            {
+              "frame": 0.9166666666666666,
+              "value": {
+                "__type__": "cc.Vec3",
+                "x": 1.2,
+                "y": 0.8,
+                "z": 1
+              }
+            },
+            {
+              "frame": 1.0833333333333333,
+              "value": {
+                "__type__": "cc.Vec3",
+                "x": 0.95,
+                "y": 1.05,
+                "z": 1
+              }
+            },
+            {
+              "frame": 1.25,
+              "value": {
+                "__type__": "cc.Vec3",
+                "x": 1.02,
+                "y": 0.98,
+                "z": 1
+              }
+            },
+            {
+              "frame": 1.4166666666666667,
+              "value": {
+                "__type__": "cc.Vec3",
+                "x": 1,
+                "y": 1,
+                "z": 1
+              }
+            }
+          ],
+          "y": [
+            {
+              "frame": 0.21666666666666667,
+              "value": -21,
+              "curve": "cubicOut"
+            },
+            {
+              "frame": 0.48333333333333334,
+              "value": 0,
+              "curve": "cubicIn"
+            },
+            {
+              "frame": 0.75,
+              "value": -21
+            },
+            {
+              "frame": 2,
+              "value": -21
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

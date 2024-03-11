@@ -1,0 +1,5 @@
+{
+  "1": {"id": 1,"style": 0,"discount_start_time": "0","discount_over_time": "0","discount": 1,"tag_name": "闪闪的钻石","index": "20001:20002:20003:20004:20005:20006"},
+  "2": {"id": 2,"style": 0,"discount_start_time": "0","discount_over_time": "0","discount": 1,"tag_name": "亮亮的水晶","index": "20007:20008:20009:20010:20011:20012"},
+  "3": {"id": 3,"style": 1,"discount_start_time": "8/24/23","discount_over_time": "8/25/23","discount": 0.5,"tag_name": "国庆大酬宾","index": "20006:20011:20012"}
+}

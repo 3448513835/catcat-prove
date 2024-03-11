@@ -1,0 +1,5 @@
+{
+  "1": {"id": 1,"stage": 1,"lv": 1,"next_lv": 2,"exp": 100,"stage_name": "流浪喵","stage_icon_eff": "stage_icon_eff_1","stage_up_eff": "","stage_icon_show": ""},
+  "2": {"id": 2,"stage": 1,"lv": 2,"next_lv": 3,"exp": 300,"stage_name": "流浪喵","stage_icon_eff": "stage_icon_eff_1","stage_up_eff": "","stage_icon_show": ""},
+  "3": {"id": 3,"stage": 1,"lv": 3,"next_lv": 0,"exp": 9999,"stage_name": "流浪喵","stage_icon_eff": "stage_icon_eff_1","stage_up_eff": "","stage_icon_show": ""}
+}

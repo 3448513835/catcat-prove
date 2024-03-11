@@ -1,0 +1,49 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "qiaoqiaoban4",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 2,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "props": {
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            -1603.667,
+            202.695,
+            0
+          ]
+        },
+        {
+          "frame": 0.5,
+          "value": [
+            -1602.806,
+            196.232,
+            0
+          ]
+        },
+        {
+          "frame": 1.5,
+          "value": [
+            -1604.529,
+            209.589,
+            0
+          ]
+        },
+        {
+          "frame": 2,
+          "value": [
+            -1603.667,
+            202.695,
+            0
+          ]
+        }
+      ]
+    }
+  },
+  "events": []
+}

@@ -1,0 +1,47 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "kuosan",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.5,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "props": {
+      "scale": [
+        {
+          "frame": 0,
+          "value": {
+            "__type__": "cc.Vec3",
+            "x": 0.5,
+            "y": 0.5,
+            "z": 1
+          },
+          "curve": "quadOut"
+        },
+        {
+          "frame": 0.5,
+          "value": {
+            "__type__": "cc.Vec3",
+            "x": 1.5,
+            "y": 1.5,
+            "z": 1
+          }
+        }
+      ],
+      "opacity": [
+        {
+          "frame": 0,
+          "value": 200,
+          "curve": "circIn"
+        },
+        {
+          "frame": 0.5,
+          "value": 0
+        }
+      ]
+    }
+  },
+  "events": []
+}

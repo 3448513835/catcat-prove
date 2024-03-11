@@ -1,0 +1,14 @@
+{
+  "1": {"place": 1,"lv": 3,"prop_mumber": "120004:20","unlock_reword": "100002:10,100001:5","name": "女神像","index": "自由的光芒照亮了世界，代表着自由无处不在","rate": 8.3,"round": 1,"style": 1,"pay": "","reword": "10002:1","adress_id": "1"},
+  "2": {"place": 2,"lv": 6,"prop_mumber": "120004:30","unlock_reword": "100002:10,100001:5","name": "披萨斜塔","index": "为了保持斜塔的稳定，用光了所有披萨","rate": 16.6,"round": 2,"style": 2,"pay": "","reword": "10003:1","adress_id": "2"},
+  "3": {"place": 3,"lv": 9,"prop_mumber": "120004:50","unlock_reword": "100002:10,100001:5","name": "大雪山","index": "洁白的冰川、开满鲜花的高山草甸美得超乎想象","rate": 24.9,"round": 3,"style": 3,"pay": "100001:500","reword": "10003:1","adress_id": "3"},
+  "4": {"place": 4,"lv": 12,"prop_mumber": "120004:50","unlock_reword": "100002:10,100001:5","name": "明珠塔","index": "东海上冉冉升起的明珠，照亮人们前进的方向","rate": 33.2,"round": 4,"style": 3,"pay": "100001:1000","reword": "10003:1","adress_id": "4"},
+  "5": {"place": 5,"lv": 15,"prop_mumber": "120004:50","unlock_reword": "100002:10,100001:5","name": "大沙滩","index": "世界上最美的海滩，有着清澈的海水和金色的沙滩","rate": 41.5,"round": 5,"style": 3,"pay": "100001:1000","reword": "10003:1","adress_id": "5"},
+  "6": {"place": 6,"lv": 18,"prop_mumber": "120004:50","unlock_reword": "100002:10,100001:5","name": "复活石","index": "周围至今没有一棵树，地上的野草也稀稀落落。","rate": 49.8,"round": 6,"style": 3,"pay": "100001:1000","reword": "10003:1","adress_id": "6"},
+  "7": {"place": 7,"lv": 21,"prop_mumber": "120004:50","unlock_reword": "100002:10,100001:5","name": "歌剧院","index": "歌剧院的外型犹如乘风出海的风帆，与景色相互呼应","rate": 58.1,"round": 7,"style": 3,"pay": "100001:1000","reword": "10003:1","adress_id": "7"},
+  "8": {"place": 8,"lv": 24,"prop_mumber": "120004:50","unlock_reword": "100002:10,100001:5","name": "鱼尾像","index": "听过到过这里的都可以飞黄腾达，步步高升","rate": 66.4,"round": 8,"style": 3,"pay": "100001:1000","reword": "10003:1","adress_id": "8"},
+  "9": {"place": 9,"lv": 27,"prop_mumber": "120004:50","unlock_reword": "100002:10,100001:5","name": "黄金顶","index": "是一座黄金建造的瞭望塔，见证了辉煌与落寞","rate": 74.7,"round": 9,"style": 3,"pay": "100001:1000","reword": "10003:1","adress_id": "9"},
+  "10": {"place": 10,"lv": 30,"prop_mumber": "120004:50","unlock_reword": "100002:10,100001:5","name": "三角塔","index": "这里存在了太多的未解之谜，也是探险家的乐花园","rate": 83,"round": 10,"style": 3,"pay": "100001:1000","reword": "10003:1","adress_id": "10"},
+  "11": {"place": 11,"lv": 33,"prop_mumber": "120004:50","unlock_reword": "100002:10,100001:5","name": "胜利门","index": "到这里的时候，探险家的荣誉在向你招手，胜利在望","rate": 91.7,"round": 11,"style": 3,"pay": "100001:1000","reword": "10003:1","adress_id": "11"},
+  "12": {"place": 12,"lv": 36,"prop_mumber": "120004:50","unlock_reword": "100002:10,100001:5","name": "帆船屋","index": "乘风破浪的你已经到了探险的终点，荣耀只属于你","rate": 0,"round": 12,"style": 3,"pay": "100001:1000","reword": "10003:1","adress_id": "12"}
+}

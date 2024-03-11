@@ -1,0 +1,5 @@
+{
+  "101": {"id": 101,"trigger_type": 1,"trigger_para": 8,"null_weight": 50,"word_1": "月亮之上,月亮之上","weight_1": 20,"word_2": "月上柳梢头","weight_2": 20,"word_3": "兔兔只吃窝边草","weight_3": 10},
+  "102": {"id": 102,"trigger_type": 1,"trigger_para": 8,"null_weight": 50,"word_1": "隔壁的兔兔太可爱了","weight_1": 20,"word_2": "0","weight_2": 0,"word_3": "0","weight_3": 0},
+  "103": {"id": 103,"trigger_type": 1,"trigger_para": 8,"null_weight": 50,"word_1": "新鲜的竹子在哪","weight_1": 20,"word_2": "黑白配色的都帅!","weight_2": 20,"word_3": "小狐整天惦记着兔兔","weight_3": 10}
+}

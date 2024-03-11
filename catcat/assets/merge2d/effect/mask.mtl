@@ -1,0 +1,20 @@
+{
+  "__type__": "cc.Material",
+  "_name": "mask",
+  "_objFlags": 0,
+  "_native": "",
+  "_effectAsset": {
+    "__uuid__": "d3973b10-2e76-4894-9bc6-62ffe2dae647"
+  },
+  "_techniqueIndex": 0,
+  "_techniqueData": {
+    "0": {
+      "defines": {
+        "USE_TEXTURE": true
+      },
+      "props": {
+        "opacity": 0.7
+      }
+    }
+  }
+}

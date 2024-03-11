@@ -1,0 +1,5 @@
+{
+  "10001": {"id": 10001,"generate_point": 1,"generate_time": "3_7","behavior_type": "101,102","behavior_weight": "50,50"},
+  "10002": {"id": 10002,"generate_point": 2,"generate_time": "3_10","behavior_type": "101,102","behavior_weight": "50,50"},
+  "10003": {"id": 10003,"generate_point": 3,"generate_time": "5_10","behavior_type": "101,102","behavior_weight": "50,50"}
+}

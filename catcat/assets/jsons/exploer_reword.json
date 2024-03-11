@@ -1,0 +1,17 @@
+{
+  "101": {"id": 101,"reword": 10001,"weigt": 30,"reword_index": "100002:5"},
+  "102": {"id": 102,"reword": 10001,"weigt": 30,"reword_index": "100002:5"},
+  "103": {"id": 103,"reword": 10001,"weigt": 20,"reword_index": "100002:5"},
+  "104": {"id": 104,"reword": 10001,"weigt": 15,"reword_index": "100002:5"},
+  "105": {"id": 105,"reword": 10001,"weigt": 5,"reword_index": "100002:5"},
+  "201": {"id": 201,"reword": 10002,"weigt": 30,"reword_index": "100002:6"},
+  "202": {"id": 202,"reword": 10002,"weigt": 30,"reword_index": "100002:7"},
+  "203": {"id": 203,"reword": 10002,"weigt": 20,"reword_index": "100002:8"},
+  "204": {"id": 204,"reword": 10002,"weigt": 15,"reword_index": "100002:9"},
+  "205": {"id": 205,"reword": 10002,"weigt": 5,"reword_index": "100002:10"},
+  "301": {"id": 301,"reword": 10003,"weigt": 30,"reword_index": "100002:10"},
+  "302": {"id": 302,"reword": 10003,"weigt": 30,"reword_index": "100002:10"},
+  "303": {"id": 303,"reword": 10003,"weigt": 20,"reword_index": "100002:10"},
+  "304": {"id": 304,"reword": 10003,"weigt": 15,"reword_index": "100002:10"},
+  "305": {"id": 305,"reword": 10003,"weigt": 5,"reword_index": "100002:10"}
+}

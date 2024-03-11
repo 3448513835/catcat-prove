@@ -1,0 +1,159 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "icon2",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 2.5,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "paths": {
+      "ele_11": {
+        "props": {
+          "scale": [
+            {
+              "frame": 0,
+              "value": {
+                "__type__": "cc.Vec3",
+                "x": 1,
+                "y": 1,
+                "z": 1
+              }
+            },
+            {
+              "frame": 0.25,
+              "value": {
+                "__type__": "cc.Vec3",
+                "x": 1.05,
+                "y": 0.95,
+                "z": 1
+              }
+            },
+            {
+              "frame": 0.5,
+              "value": {
+                "__type__": "cc.Vec3",
+                "x": 0.95,
+                "y": 1.05,
+                "z": 1
+              }
+            },
+            {
+              "frame": 0.75,
+              "value": {
+                "__type__": "cc.Vec3",
+                "x": 0.95,
+                "y": 1.05,
+                "z": 1
+              }
+            },
+            {
+              "frame": 0.9666666666666667,
+              "value": {
+                "__type__": "cc.Vec3",
+                "x": 1.05,
+                "y": 0.95,
+                "z": 1
+              }
+            },
+            {
+              "frame": 1.1666666666666667,
+              "value": {
+                "__type__": "cc.Vec3",
+                "x": 0.98,
+                "y": 1.02,
+                "z": 1
+              }
+            },
+            {
+              "frame": 1.3333333333333333,
+              "value": {
+                "__type__": "cc.Vec3",
+                "x": 1,
+                "y": 1,
+                "z": 1
+              }
+            }
+          ],
+          "y": [
+            {
+              "frame": 0.25,
+              "value": 0,
+              "curve": "cubicOut"
+            },
+            {
+              "frame": 0.5,
+              "value": 10,
+              "curve": "cubicIn"
+            },
+            {
+              "frame": 0.75,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "faguang2": {
+        "props": {
+          "scale": [
+            {
+              "frame": 0,
+              "value": {
+                "__type__": "cc.Vec3",
+                "x": 0.6,
+                "y": 0.6,
+                "z": 1
+              },
+              "curve": "cubicOut"
+            },
+            {
+              "frame": 0.8333333333333334,
+              "value": {
+                "__type__": "cc.Vec3",
+                "x": 0.8,
+                "y": 0.8,
+                "z": 1
+              }
+            },
+            {
+              "frame": 2.5,
+              "value": {
+                "__type__": "cc.Vec3",
+                "x": 0.6,
+                "y": 0.6,
+                "z": 1
+              }
+            }
+          ],
+          "angle": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 2.5,
+              "value": -45
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 100,
+              "curve": "cubicOut"
+            },
+            {
+              "frame": 0.8333333333333334,
+              "value": 255
+            },
+            {
+              "frame": 2.5,
+              "value": 100
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

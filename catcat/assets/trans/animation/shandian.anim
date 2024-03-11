@@ -1,0 +1,57 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "shandian",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 4,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "paths": {
+      "zhezhao-bai": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0.3333333333333333,
+              "value": 0
+            },
+            {
+              "frame": 0.35,
+              "value": 150
+            },
+            {
+              "frame": 0.4166666666666667,
+              "value": 150
+            },
+            {
+              "frame": 1.1666666666666667,
+              "value": 0
+            },
+            {
+              "frame": 1.8333333333333333,
+              "value": 0
+            },
+            {
+              "frame": 1.85,
+              "value": 150
+            },
+            {
+              "frame": 1.9166666666666667,
+              "value": 150
+            },
+            {
+              "frame": 2.6666666666666665,
+              "value": 0
+            },
+            {
+              "frame": 4,
+              "value": 0
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

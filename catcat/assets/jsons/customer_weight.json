@@ -1,0 +1,7 @@
+{
+  "10001": {"id": 10001,"behavior_type": 101,"customer_pool": 10001,"customer_weight": 1},
+  "10002": {"id": 10002,"behavior_type": 101,"customer_pool": 10002,"customer_weight": 1},
+  "10003": {"id": 10003,"behavior_type": 101,"customer_pool": 10003,"customer_weight": 1},
+  "10004": {"id": 10004,"behavior_type": 102,"customer_pool": 10001,"customer_weight": 1},
+  "10005": {"id": 10005,"behavior_type": 102,"customer_pool": 10002,"customer_weight": 1}
+}

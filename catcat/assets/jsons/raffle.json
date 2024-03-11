@@ -1,0 +1,9 @@
+{
+  "1001": {"id": 1001,"reward_item": "100002:50","weight": 10,"big_reward": 1,"reword_round": 20,"min_reword": "100002:10","tips": "20次必中10钻石"},
+  "1002": {"id": 1002,"reward_item": "100001:100","weight": 65,"big_reward": 0,"reword_round": 0,"min_reword": "","tips": ""},
+  "1003": {"id": 1003,"reward_item": "100005:200","weight": 20,"big_reward": 1,"reword_round": 0,"min_reword": "","tips": ""},
+  "1004": {"id": 1004,"reward_item": "100003:300","weight": 55,"big_reward": 0,"reword_round": 0,"min_reword": "","tips": ""},
+  "1005": {"id": 1005,"reward_item": "18:1","weight": 45,"big_reward": 0,"reword_round": 0,"min_reword": "","tips": ""},
+  "1006": {"id": 1006,"reward_item": "100005:100","weight": 30,"big_reward": 1,"reword_round": 0,"min_reword": "","tips": ""},
+  "1007": {"id": 1007,"reward_item": "101:1","weight": 45,"big_reward": 0,"reword_round": 0,"min_reword": "","tips": ""}
+}

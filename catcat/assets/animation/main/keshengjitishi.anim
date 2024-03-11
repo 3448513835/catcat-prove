@@ -1,0 +1,140 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "keshengjitishi",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 2.1666666666666665,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "paths": {
+      "guang": {
+        "props": {
+          "scale": [
+            {
+              "frame": 0,
+              "value": {
+                "__type__": "cc.Vec3",
+                "x": 0.65,
+                "y": 0.65,
+                "z": 1
+              }
+            },
+            {
+              "frame": 0.8333333333333334,
+              "value": {
+                "__type__": "cc.Vec3",
+                "x": 0.85,
+                "y": 0.85,
+                "z": 1
+              }
+            },
+            {
+              "frame": 1.6666666666666667,
+              "value": {
+                "__type__": "cc.Vec3",
+                "x": 0.65,
+                "y": 0.65,
+                "z": 1
+              }
+            },
+            {
+              "frame": 2.1666666666666665,
+              "value": {
+                "__type__": "cc.Vec3",
+                "x": 0.65,
+                "y": 0.65,
+                "z": 1
+              }
+            }
+          ]
+        }
+      },
+      "faguang": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0.25,
+              "value": 0
+            },
+            {
+              "frame": 1.0833333333333333,
+              "value": 200
+            },
+            {
+              "frame": 1.9166666666666667,
+              "value": 0
+            }
+          ],
+          "angle": [
+            {
+              "frame": 0.25,
+              "value": 0
+            },
+            {
+              "frame": 1.9166666666666667,
+              "value": -30
+            }
+          ]
+        }
+      },
+      "dengji": {
+        "props": {
+          "scale": [
+            {
+              "frame": 0,
+              "value": {
+                "__type__": "cc.Vec3",
+                "x": 1,
+                "y": 1,
+                "z": 1
+              },
+              "curve": "quadOut"
+            },
+            {
+              "frame": 0.25,
+              "value": {
+                "__type__": "cc.Vec3",
+                "x": 1.2,
+                "y": 1.2,
+                "z": 1
+              },
+              "curve": "quadIn"
+            },
+            {
+              "frame": 0.5,
+              "value": {
+                "__type__": "cc.Vec3",
+                "x": 1,
+                "y": 1,
+                "z": 1
+              },
+              "curve": "quadOut"
+            },
+            {
+              "frame": 0.75,
+              "value": {
+                "__type__": "cc.Vec3",
+                "x": 1.15,
+                "y": 1.15,
+                "z": 1
+              },
+              "curve": "quadIn"
+            },
+            {
+              "frame": 1,
+              "value": {
+                "__type__": "cc.Vec3",
+                "x": 1,
+                "y": 1,
+                "z": 1
+              }
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

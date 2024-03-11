@@ -1,0 +1,37 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "guide_tip",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 2.0166666666666666,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "d12a12ed-c2c7-424b-a543-a9d37b0f3960"
+            }
+          },
+          {
+            "frame": 1,
+            "value": {
+              "__uuid__": "0e8a218d-1c11-4751-bf86-e6fda99f67f2"
+            }
+          },
+          {
+            "frame": 2,
+            "value": {
+              "__uuid__": "d12a12ed-c2c7-424b-a543-a9d37b0f3960"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

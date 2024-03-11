@@ -1,0 +1,6 @@
+{
+  "10001": {"id": 10001,"tips_jump": "主界面","des": "主界面","currency_1": 100005,"currency_2": 100001,"currency_3": 100002,"currency_4": 100003},
+  "10002": {"id": 10002,"tips_jump": "合成玩法界面","des": "合成玩法界面","currency_1": 100005,"currency_2": 100001,"currency_3": 100002,"currency_4": 100003},
+  "10003": {"id": 10003,"tips_jump": "视频站","des": "视频站","currency_1": 100005,"currency_2": 100001,"currency_3": 100002,"currency_4": 100003},
+  "10004": {"id": 10004,"tips_jump": "皮肤套装","des": "皮肤套装","currency_1": 100005,"currency_2": 100001,"currency_3": 100002,"currency_4": 100003}
+}

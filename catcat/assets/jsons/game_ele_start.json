@@ -1,0 +1,8 @@
+{
+  "1": {"id": 1,"round": 1,"game_start": 1,"pay": "","time": 90},
+  "2": {"id": 2,"round": 2,"game_start": 1,"pay": "","time": 90},
+  "3": {"id": 3,"round": 3,"game_start": 1,"pay": "","time": 90},
+  "4": {"id": 4,"round": 4,"game_start": 2,"pay": "","time": 90},
+  "5": {"id": 5,"round": 5,"game_start": 2,"pay": "","time": 90},
+  "6": {"id": 6,"round": 6,"game_start": 2,"pay": "","time": 90}
+}

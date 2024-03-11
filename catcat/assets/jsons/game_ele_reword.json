@@ -1,0 +1,7 @@
+{
+  "1": {"id": 1,"sort": "0-20","reword": "100005:5","content": "再接再厉","relife": "","relife_stytle": 1,"relife_mum": 1},
+  "2": {"id": 2,"sort": "21-50","reword": "100005:10","content": "略有成就","relife": "","relife_stytle": 1,"relife_mum": 1},
+  "3": {"id": 3,"sort": "51-80","reword": "100005:15","content": "继续加油","relife": "","relife_stytle": 1,"relife_mum": 1},
+  "4": {"id": 4,"sort": "81-100","reword": "100005:20","content": "王者风范","relife": "","relife_stytle": 1,"relife_mum": 1},
+  "5": {"id": 5,"sort": "101-150","reword": "100005:25","content": "达到巅峰","relife": "","relife_stytle": 1,"relife_mum": 1}
+}

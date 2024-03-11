@@ -1,0 +1,59 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "motianlun",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 13.333333333333334,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "props": {
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            -1136,
+            266
+          ],
+          "motionPath": [
+            [
+              -1338,
+              472,
+              -1339,
+              275,
+              -1340,
+              673
+            ]
+          ]
+        },
+        {
+          "frame": 6.666666666666667,
+          "value": [
+            -1136,
+            677
+          ],
+          "motionPath": [
+            [
+              -931,
+              474,
+              -931,
+              669,
+              -930,
+              270
+            ]
+          ]
+        },
+        {
+          "frame": 13.333333333333334,
+          "value": [
+            -1136,
+            266
+          ],
+          "motionPath": []
+        }
+      ]
+    }
+  },
+  "events": []
+}

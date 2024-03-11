@@ -1,0 +1,5 @@
+{
+  "1": {"id": 1,"stage": 1,"lv_min": 1,"lv_max": 20,"pool_id": 101},
+  "2": {"id": 2,"stage": 1,"lv_min": 21,"lv_max": 40,"pool_id": 102},
+  "3": {"id": 3,"stage": 1,"lv_min": 41,"lv_max": 99999,"pool_id": 103}
+}
